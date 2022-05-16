@@ -1,0 +1,34 @@
+body{
+    width: 95%;
+    margin: auto;
+    background-color:rgb(76, 115, 187) ;
+}
+@font-face {
+    font-family: 'PM';
+    src: url(../Fonts/Permanent_Marker/PermanentMarker-Regular.ttf);
+}
+@font-face {
+    font-family: 'mali';
+    src: url(../Fonts/Mali/Mali-SemiBold.ttf);
+}
+.logotext{
+    font-family: PM;
+    color: rgba(27, 248, 211, 0.801);
+}
+.navul{
+    font-family: 'mali';
+    list-style: none;
+}
+.btns{
+    border-radius: 60px;
+    background-color: rgb(153, 37, 85);
+    border: solid rgb(50, 180, 141);
+    font-family: 'mali';
+    text-align: start;
+}
+.btns:nth-child(2){
+    margin-right: 10%;
+}
+.p{
+    margin-top: 10%;
+}
