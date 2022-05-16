@@ -45,6 +45,15 @@ body{
     color: rgba(0, 250, 167, 0.959);
     font-size: larger;
 }
+.malifont2{
+    font-family: 'mali2';
+    color: rgba(181, 196, 191, 0.959);
+    font-size: larger;
+}
 summary{
     list-style: disc;
+}
+a{
+    color: inherit !important;
+    text-decoration: none !important;
 }
