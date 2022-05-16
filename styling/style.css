@@ -57,3 +57,13 @@ a{
     color: inherit !important;
     text-decoration: none !important;
 }
+.hvr:hover {
+    background-color: coral;
+}
+.socmedia{
+    height: 80px;
+    weight: 100px;
+}
+.mt-custom{
+    margin-top: 1.5%;
+}
