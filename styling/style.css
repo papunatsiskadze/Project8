@@ -11,6 +11,10 @@ body{
     font-family: 'mali';
     src: url(../Fonts/Mali/Mali-SemiBold.ttf);
 }
+@font-face {
+    font-family: 'mali2';
+    src: url(../Fonts/Mali/Mali-BoldItalic.ttf);
+}
 .logotext{
     font-family: PM;
     color: rgba(27, 248, 211, 0.801);
@@ -31,4 +35,16 @@ body{
 }
 .p{
     margin-top: 10%;
+}
+.mrkrfont{
+    color: rgb(128, 37, 146);
+    font-family: 'PM';
+}
+.malifont{
+    font-family: 'mali2';
+    color: rgba(0, 250, 167, 0.959);
+    font-size: larger;
+}
+summary{
+    list-style: disc;
 }
