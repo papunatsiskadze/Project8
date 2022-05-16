@@ -25,7 +25,7 @@ body{
 }
 .btns{
     border-radius: 60px;
-    background-color: rgb(153, 37, 85);
+    background-color: coral;
     border: solid rgb(50, 180, 141);
     font-family: 'mali';
     text-align: start;
@@ -34,7 +34,7 @@ body{
     margin-right: 10%;
 }
 .p{
-    margin-top: 10%;
+    margin-top: 20%;
 }
 .mrkrfont{
     color: rgb(128, 37, 146);
