@@ -73,12 +73,8 @@ a{
 .imgbrdr{
     border: solid white;
 }
-
 @media (max-width: 575.98px) {
     body{
         width: 100%;
-    }
-    header{
-        display: grid;
     }
 }
