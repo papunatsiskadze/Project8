@@ -74,3 +74,8 @@ a{
 .imgbrdr{
     border: solid white;
 }
+@media only screen and (max-width:600px) {  
+    img{
+      display: none;
+    }
+}
