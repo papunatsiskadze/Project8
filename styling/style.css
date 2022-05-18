@@ -75,7 +75,7 @@ a{
     border: solid white;
 }
 @media only screen and (max-width:600px) {  
-    img{
+    .articleimg{
       display: none;
     }
     
