@@ -75,7 +75,8 @@ a{
     border: solid white;
 }
 @media only screen and (max-width:600px) {  
-    img1{
+    img{
       display: none;
     }
+    
 }
