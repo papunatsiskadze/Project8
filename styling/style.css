@@ -3,6 +3,7 @@ body{
     margin: auto;
     background-color:rgb(76, 115, 187) ;
 }
+
 @font-face {
     font-family: 'PM';
     src: url(../Fonts/Permanent_Marker/PermanentMarker-Regular.ttf);
@@ -72,9 +73,4 @@ a{
 }
 .imgbrdr{
     border: solid white;
-}
-@media (max-width: 575.98px) {
-    body{
-        width: 100%;
-    }
 }
